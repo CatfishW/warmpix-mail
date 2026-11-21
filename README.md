@@ -8,6 +8,16 @@
 - 前置：暖像素经济 WarmPix Economy 2.1 或更高（邮资从电子账户扣除）
 - 语言：简体中文 / English
 
+## 截图 Screenshots
+
+![Warmpix 邮政封面：邮箱、邮筒与随信寄物品](docs/screenshots/01_cover.png)
+
+![各式邮箱](docs/screenshots/02_mailboxes.png)
+
+![邮筒与信函](docs/screenshots/03_postal.png)
+
+![邮政功能一览](docs/screenshots/04_features.png)
+
 ## 下载
 
 请到 [Releases](../../releases) 页面下载 jar（版本 1.1.0）。
